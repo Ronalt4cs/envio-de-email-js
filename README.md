@@ -18,7 +18,7 @@ para instalar todas as depêndencias e depois rodar o servidor
 
 - Após criação da conta e configuração, ainda no site **sendgrid** vá em email api -> integration guide, selecione o metódo SMTP e crie uma Key. Guarde todas as informações após criação da key ( Sugiro não fechar a janela )
 
-- Agora renomeie o arquivo **.net-example** para **.net** e preencha todas as váriaveis com as informações guardadas anteriormente
+- Agora renomeie o arquivo **.env-example** para **.env** e preencha todas as váriaveis com as informações guardadas anteriormente
 
 - No arquivo **login.html** você pode personalizar a mensagem que quiser para ser enviada ao email do destinatário
 
